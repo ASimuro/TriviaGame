@@ -1,0 +1,61 @@
+body{
+	background: url('../images/animals-collage.jpg');
+	font-family:'Goudy Old Style','Garamond','Big Caslon','Times New Roman',serif;
+	font-size: 25px;
+}
+
+header{
+    margin-bottom: 20px;
+    padding:10px;
+    background:black;
+    color:white;
+    text-align:center;
+    font-family:'Rockwell Extra Bold','Rockwell Bold',monospace;
+    font-size:50px;
+}
+
+.btn,.reset{
+	background-color: #313477;
+	color: white;
+	font-family: 'Sigmar One', sans-serif;
+	font-size: 30px;
+	padding: 50px;
+	margin-top: 100px;
+}
+
+.btn, .reset{
+	background-color: #000000;
+}
+.container{
+   margin:auto;
+	text-align: center;
+	height: 500px;
+    width: 75%;
+    margin-top:75px;
+    background: url('../images/dog-outline.gif');
+    padding:30px 10px 10px 0px;
+}
+#question{
+    width:500px;
+    margin-left:29%;
+}
+
+.thisChoice:hover{
+	background:black;
+	color: white;
+    padding: 10px;
+}
+.thisChoice{
+    width:25%;
+    margin:auto
+}
+
+#reset{
+width:80px;
+margin:auto;
+margin-top:20px;
+}
+
+#scores{
+margin-top:50px;
+}
