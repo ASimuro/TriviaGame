@@ -16,3 +16,5 @@ On the final screen, show the number of correct answers, incorrect answers, and 
 This project is useful because it uses the clearinterval and set interval timer.
 
 Users can change the product by making the repsonsive styling better.
+
+https://asimuro.github.io/TriviaGame/
